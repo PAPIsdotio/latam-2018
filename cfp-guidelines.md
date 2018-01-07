@@ -1,6 +1,6 @@
 # Call for Proposals — PAPIs LatAm (June 21-22, 2018 - São Paulo)
 
-PAPIs is the 1st series of international conferences dedicated to **real-world Machine Learning applications**. Previous editions took place in Boston, Sydney, Barcelona, Paris, Valencia, London, and PAPIs is now coming back to São Paulo! It brings together engineers, scientists, researchers, hackers and managers (200 attendees per day, over 2 days) who meet to share experiences and discover the latest innovations, techniques and tools to build ML applications. Find out more at [papis.io/europe](http://www.papis.io/europe).
+PAPIs is the 1st series of international conferences dedicated to **real-world Machine Learning applications, techniques, and tools**. Previous editions took place in Boston, Sydney, Barcelona, Paris, Valencia, London, and PAPIs is now coming back to São Paulo! It brings together engineers, scientists, researchers, hackers and managers (200 attendees per day, over 2 days) who meet to share experiences and discover the latest innovations, techniques and tools to build ML applications. Find out more at [papis.io/latam](http://www.papis.io/latam).
 
 ## Key dates
 
@@ -14,23 +14,22 @@ This year we'd like to **strongly encourage women to submit proposals**. As a co
 
 ## What we're looking for
 
+We want to hear about **challenges and lessons learnt using ML in various applications/products/processes**, and exciting applications where ML is integrated in new domains or in new ways in our lives. Those challenges can be technical, or domain-specific and related to **business, design, regulations, fairness, accountability, transparency, privacy, ethics, etc.** We're interested in seeing what you did, and how you did it, e.g. which **techniques, frameworks, tools, architectures, infrastructures, pipelines** you used or created.
+
 ### Presentations
 
-We welcome technical and non-technical presentations with a practical mindset, on a wide range of experience levels — from beginner-friendly how-tos to cautionary tales to deep dives for experienced professionals. We'd like to hear about:
+We welcome technical and non-technical presentations with a practical mindset, for all experience levels — from beginner-friendly how-tos to cautionary tales to deep dives for experienced professionals. They will be organized in the following tracks:
 
-- Challenges and lessons learnt in integrating ML into various applications/products/processes and new areas; this can include technical and domain-specific challenges, as well as those related to fairness, accountability, transparency, privacy, ethics, etc.
-- Failure stories — you aren’t a real ML innovator until you’ve had to deal with massive failure of your ML system!
-- Techniques, architectures, infrastructures, pipelines, frameworks, APIs to create or improve intelligent applications (from embedded to web-scale)
-- Design of ML-powered products
-- Tools to make it easier to integrate ML into real-world products/applications (with demos)
-- Exciting and innovative ML use cases
-- Hands-on tutorials that teach a specific and valuable skill
+- 🤖 **Lean AI**: when the end-product is your main concern, and modeling is your last
+- ☠️ **FAIL**: you aren’t a real ML innovator until you’ve had to deal with massive failure of your ML system
+- 🔌 **Tools and APIs** that make it easier to integrate ML into real-world applications
+- 🔬 **Innovations and Research** to improve intelligent applications.
 
-We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking. We invite them to submit proposals of **20' long,  non-commercial presentations**. _(Note: we also have a very limited number of sponsored speaking slots — [contact us](mailto:sponsoring@papis.io) for more information on how to secure one.)_
+We’re looking for a diverse and creative line-up of speakers, preferably with experience in public speaking. We invite them to submit proposals of **20' long,  non-commercial presentations**. _(Note: we also have a very limited number of sponsored speaking slots — [contact the sponsorship team](mailto:sponsoring@papis.io) for more information on how to secure one.)_
 
 ### Papers
 
-We welcome technical papers, industrial experience reports, review papers and research papers (not required to be accepted to present, but very much encouraged!). Papers presented at PAPIs are published in [Proceedings of Machine Learning Research](http://proceedings.mlr.press/).
+We welcome technical papers, industrial experience reports, review papers and research papers (not required to be accepted to present, but very much encouraged!). Papers presented at PAPIs are published in **[Proceedings of Machine Learning Research](http://proceedings.mlr.press/)**.
 
 ## Tips and rules
 
