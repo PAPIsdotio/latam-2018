@@ -1,12 +1,12 @@
-# Call for Proposals — PAPIs Europe (April 5-6, 2018 - London)
+# Call for Proposals — PAPIs LatAm (June 21-22, 2018 - São Paulo)
 
-PAPIs is the 1st series of international conferences dedicated to **real-world Machine Learning applications**. Previous editions took place in Boston, Sydney, Barcelona, Paris, Valencia, São Paulo, and PAPIs is now coming to London! It brings together engineers, scientists, researchers, hackers and managers (200 attendees per day, over 2 days) who meet to share experiences and discover the latest innovations, techniques and tools to build ML applications. Find out more at [papis.io/europe](http://www.papis.io/europe).
+PAPIs is the 1st series of international conferences dedicated to **real-world Machine Learning applications**. Previous editions took place in Boston, Sydney, Barcelona, Paris, Valencia, London, and PAPIs is now coming back to São Paulo! It brings together engineers, scientists, researchers, hackers and managers (200 attendees per day, over 2 days) who meet to share experiences and discover the latest innovations, techniques and tools to build ML applications. Find out more at [papis.io/europe](http://www.papis.io/europe).
 
 ## Key dates
 
-- **January 21** (23:59 GMT): Call for Proposals closes
-- **February 5**: Notifications of acceptance/rejection due
-- **April 5-6**: Conference takes place in London
+- **TBD** (23:59 GMT): Call for Proposals closes
+- **2 weeks after**: Notifications of acceptance/rejection due
+- **June 21-22**: Conference takes place in São Paulo
 
 This year we'd like to **strongly encourage women to submit proposals**. As a community conference, we think it's important to increase diversity in AI. Applications for funding to reimburse childcare and travel costs will be invited from women and primary carers whose proposals are accepted. We're also looking for [sponsors](http://papis.io/sponsoring) to support our diversity efforts!
 
@@ -38,7 +38,7 @@ You can tips on how to craft a good proposal, how to submit it, and some rules [
 
 ## We’re looking forward to receiving your best proposals!
 
-If you have questions or if you have not heard about the status of your submission, please [contact us](mailto:program-committee-europe-2018@papis.mailclark.ai).
+If you have questions or if you have not heard about the status of your submission, please [contact us](mailto:program-committee-latam-2018@papis.mailclark.ai).
 
 ### Acknowledgements
 
