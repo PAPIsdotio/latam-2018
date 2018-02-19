@@ -1,6 +1,6 @@
 # Sponsorship Agreement
 
-## PAPIs Europe 2018 — London, April 5-6, 2018
+## PAPIs LatAm 2018 — São Paulo, June 20-22, 2018
 
 Sponsorship agreement between Sponsor and
 
@@ -14,17 +14,17 @@ Sponsorship agreement between Sponsor and
 
 ## Article 1. Purpose of Agreement
 
-The purpose of this Agreement is to set the technical, commercial, operational and financial conditions under which the Sponsor will benefit from its participation in the PAPIs London 2018 conference held on April 5-6, 2018 at Level39 in London, United Kingdom (“Conference”) and organized by Louis Dorard (“Organizer”), as a Sponsor of chosen Category (Silver or Gold).
+The purpose of this Agreement is to set the technical, commercial, operational and financial conditions under which the Sponsor will benefit from its participation in the PAPIs LatAm 2018 conference held on June 20-22, 2018 in São Paulo, Brazil (“Conference”) and organized by Louis Dorard (“Organizer”), as a Sponsor of chosen Category (Silver or Gold).
 
 ## Article 2. Obligations
 
 **Timeline:**
 
-1. Sponsor shall fill in the form at [https://papisdotio.wufoo.eu/forms/m1onnqex1rt6c3l/](https://papisdotio.wufoo.eu/forms/m1onnqex1rt6c3l/) (“Form”)
+1. Sponsor shall fill in the form at [https://papisdotio.wufoo.eu/forms/m1fge0om1sanobb/](https://papisdotio.wufoo.eu/forms/m1fge0om1sanobb/) (“Form”)
 1. Organizer shall send invoice after receipt of the Form and payment.
 1. Organizer shall start providing benefits, according to best practices and in the best way possible.
 1. Sponsor shall send a list of persons to whom he wishes to assign his complimentary registrations, to contact@papis.io.
-1. Conference will take place from April 5, 2018 at 9am to April 6, 2018 at 3.30pm BT – British Time, at which point this Agreement will be deemed to be fully completed.
+1. Conference will take place from June 21, 2018 at 8.30am to June 22, 2018 at 3.30pm BRT, at which point this Agreement will be deemed to be fully completed.
 
 **The Sponsor must:**
 
@@ -45,7 +45,7 @@ An invoice will be sent in Euros and it will specify the corresponding amount in
 
 Payment options:
 
-- A discount of £500 will be given for payments made by credit card on the Form.
+- A discount of $500 will be given for payments made by credit card on the Form.
 - Payment can also be sent by eletronic bank transfer, which should include the invoice number in reference.
   - Bank details are:
     - IBAN: FR76 1333 5003 0108 0015 6404 918
@@ -125,8 +125,8 @@ Please note that Sponsorship opportunities are in limited number and therefore a
 
 The amounts below are tax-free. Early-stage startups of less than 2 years who have raised less than US$ 1M in funding can get a discount of 50% on the amounts below (limited availability). Startups of less than 4 years who have raised less than US$ 25M in funding can get a discount of 30% on the amounts below (limited availability).
 
-- Gold sponsorship: 7500 GBP
-- Silver sponsorship: 3750 GBP
+- Gold sponsorship: 6000 USD
+- Silver sponsorship: 3000 USD
 
 <table style="border: 0; border-spacing: 10px; width: 100%; text-align: center;">
         <tbody><tr>
