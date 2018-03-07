@@ -1,6 +1,6 @@
-# Call for Proposals — PAPIs LatAm (June 20-21, 2018 - São Paulo)
+# Call for Proposals
 
-PAPIs is the 1st series of international conferences dedicated to **real-world Machine Learning applications, techniques, and tools**. Previous editions took place in Boston, Sydney, Barcelona, Paris, Valencia, London, and PAPIs is now coming back to São Paulo! It brings together engineers, scientists, researchers, hackers and managers (250 attendees per day, over 2 days) who meet to share experiences and discover the latest innovations, techniques and tools to build ML applications. Find out more at [papis.io/latam](http://www.papis.io/latam).
+PAPIs is the 1st series of international conferences dedicated to **real-world Machine Learning applications, techniques, and tools**. Previous editions took place in Boston, Sydney, Barcelona, Paris, Valencia, London, and PAPIs is now coming back to São Paulo! It brings together engineers, scientists, researchers, hackers and managers (250 attendees per day, over 2 days) who meet to share experiences and discover the latest innovations, techniques, and tools to build ML applications. Find out more at [papis.io/latam](http://www.papis.io/latam).
 
 ## Key dates
 
@@ -14,7 +14,7 @@ This year we'd like to **strongly encourage women to submit proposals**. As a co
 
 ## What we're looking for
 
-We want to hear about **challenges and lessons learnt using ML in various applications/products/processes**, and exciting applications where ML is integrated in new domains or in new ways in our lives. Those challenges can be technical, or domain-specific and related to **business, design, regulations, fairness, accountability, transparency, privacy, ethics, etc.** We're interested in seeing what you did, and how you did it, e.g. which **techniques, frameworks, tools, architectures, infrastructures, pipelines** you used or created.
+We want to hear about **challenges and lessons learned using ML in various applications/products/processes**, and exciting applications where ML is integrated in new domains or in new ways in our lives. Those challenges can be technical, or domain-specific and related to **business, design, regulations, fairness, accountability, transparency, privacy, ethics, etc.** We're interested in seeing what you did, and how you did it, e.g. which **techniques, frameworks, tools, architectures, infrastructures, pipelines** you used or created.
 
 ### Presentations
 
@@ -33,7 +33,7 @@ We welcome technical papers, industrial experience reports, review and research 
 
 ## Tips and rules
 
-You can tips on how to craft a good proposal, how to submit it, and some rules [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md). We will be receiving several proposals covering the same topics. They will be blind-reviewed by our Program Committee and evaluated on the basis of their novelty and/or significance and/or clarity of presentation. Reading these tips and rules will help you craft a proposal that stands out and increase its chances of getting accepted.
+You can see tips on how to craft a good proposal, how to submit it, and some rules [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md). We will be receiving several proposals covering the same topics. They will be blind-reviewed by our Program Committee and evaluated on the basis of their novelty and/or significance and/or clarity of presentation. Reading these tips and rules will help you craft a proposal that stands out and increase its chances of getting accepted.
 
 ## We’re looking forward to receiving your best proposals!
 
