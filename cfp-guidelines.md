@@ -29,7 +29,7 @@ We’re looking for a diverse and creative line-up of speakers, preferably with 
 
 ### Papers
 
-We welcome technical papers, industrial experience reports, review and research papers, but a paper is no requirement for being accepted to present at the conference (although we highly encourage it). Papers presented at PAPIs are published in **[Proceedings of Machine Learning Research](http://proceedings.mlr.press/)**.
+We welcome technical papers, industrial experience reports, review and research papers. While submitting a paper is no requirement to be accepted to present at PAPIs, we highly encourage to do so. Papers presented at PAPIs are published in **[Proceedings of Machine Learning Research](http://proceedings.mlr.press/)**.
 
 ## Tips and rules
 
