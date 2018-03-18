@@ -4,7 +4,7 @@ PAPIs is the 1st series of international conferences dedicated to **real-world M
 
 ## Key dates
 
-- **April 2 (23:59 UTC-12)** : Call for Proposals closes
+- **April 4 (23:59 BST)** : Call for Proposals closes
 - **April 16**: Notifications of acceptance/rejection due
 - **June 20-21**: Conference takes place in São Paulo
 
