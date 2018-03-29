@@ -29,7 +29,7 @@ We’re looking for a diverse and creative line-up of speakers, preferably with 
 
 ### Papers
 
-We welcome technical papers, industrial experience reports, review and research papers. While submitting a paper is no requirement to be accepted to present at PAPIs, we highly encourage to do so. Papers presented at PAPIs are published in **[Proceedings of Machine Learning Research](http://proceedings.mlr.press/)**.
+We welcome technical papers, industrial experience reports, review and research papers. While submitting a paper is no requirement to be accepted to present at PAPIs, we highly encourage to do so. Papers presented at PAPIs are published in **[Proceedings of Machine Learning Research](http://proceedings.mlr.press/)**. Get more information about the submission process [here](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md).
 
 ## Tips and rules
 
