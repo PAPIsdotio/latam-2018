@@ -1,6 +1,6 @@
 # Sponsorship Agreement
 
-## PAPIs LatAm 2018 — São Paulo, June 20-22, 2018
+## PAPIs LATAM 2018 — São Paulo, June 19-21, 2018
 
 Sponsorship agreement between Sponsor and
 
@@ -14,7 +14,7 @@ Sponsorship agreement between Sponsor and
 
 ## Article 1. Purpose of Agreement
 
-The purpose of this Agreement is to set the technical, commercial, operational and financial conditions under which the Sponsor will benefit from its participation in the PAPIs LatAm 2018 conference held on June 20-22, 2018 in São Paulo, Brazil (“Conference”) and organized by Louis Dorard (“Organizer”), as a Sponsor of chosen Category (Silver or Gold).
+The purpose of this Agreement is to set the technical, commercial, operational and financial conditions under which the Sponsor will benefit from its participation in the PAPIs LATAM 2018 conference held on June 20-21, 2018 at Wayra Open Future_ in São Paulo, Brazil (“Conference”) and organized by Louis Dorard (“Organizer”), as a Sponsor of chosen Category (Silver or Gold).
 
 ## Article 2. Obligations
 
@@ -24,7 +24,7 @@ The purpose of this Agreement is to set the technical, commercial, operational a
 1. Organizer shall send invoice after receipt of the Form and payment.
 1. Organizer shall start providing benefits, according to best practices and in the best way possible.
 1. Sponsor shall send a list of persons to whom he wishes to assign his complimentary registrations, to contact@papis.io.
-1. Conference will take place from June 21, 2018 at 8.30am to June 22, 2018 at 3.30pm BRT, at which point this Agreement will be deemed to be fully completed.
+1. Conference will take place from June 20, 2018 at 9am to June 21, 2018 at 4.30pm BRT – Brazilian Time, at which point this Agreement will be deemed to be fully completed.
 
 **The Sponsor must:**
 
