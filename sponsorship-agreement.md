@@ -6,11 +6,11 @@ Sponsorship agreement between Sponsor and
 
 [COOP'ALPHA – Coopérative d'Activités et d'Emploi 33](http://www.coopalpha.coop/)
 
-- Type of company: SCOP à Responsabilité Limitée à capital variable
-- Incorporation number: Siret 48237148100029 – APE 7022Z - Bordeaux, France
-- Address: 1 avenue de la Libération, 33310 Lormont, France
-- Represented by Ms Karine LABAT PAPIN, Gérante
-- Delegates the execution to Dr Louis DORARD, PAPIs.io General Chair, Member of the Coop’Alpha cooperative
+* Type of company: SCOP à Responsabilité Limitée à capital variable
+* Incorporation number: Siret 48237148100029 – APE 7022Z - Bordeaux, France
+* Address: 1 avenue de la Libération, 33310 Lormont, France
+* Represented by Ms Karine LABAT PAPIN, Gérante
+* Delegates the execution to Dr Louis DORARD, PAPIs.io General Chair, Member of the Coop’Alpha cooperative
 
 ## Article 1. Purpose of Agreement
 
@@ -28,12 +28,12 @@ The purpose of this Agreement is to set the technical, commercial, operational a
 
 **The Sponsor must:**
 
-- Provide the Organizer with any information or document contributing to carrying out the present Agreement.
-- Provide all required information (including logo) via Form and send full payment no later than 2 weeks before Conference begins, for benefits to be provided.
-- Communicate to [contact@papis.io](mailto:contact@papis.io) the first and last names and email addresses of persons to whom he wishes to assign its complimentary registrations, no later than 2 weeks before Conference begins.
-- If applicable:
-  - Arrive at the venue half an hour before Conference begins on first day of participation, in order to set up exhibitor space; vacate this space half an hour after Conference ends on the last day of participation.
-  - Bring own rollup banner(s), table cloth, brochures and equipment to his exhibitor space.
+* Provide the Organizer with any information or document contributing to carrying out the present Agreement.
+* Provide all required information (including logo) via Form and send full payment no later than 2 weeks before Conference begins, for benefits to be provided.
+* Communicate to [contact@papis.io](mailto:contact@papis.io) the first and last names and email addresses of persons to whom he wishes to assign its complimentary registrations, no later than 2 weeks before Conference begins.
+* If applicable:
+  * Arrive at the venue half an hour before Conference begins on first day of participation, in order to set up exhibitor space; vacate this space half an hour after Conference ends on the last day of participation.
+  * Bring own rollup banner(s), table cloth, brochures and equipment to his exhibitor space.
 
 In case Sponsor does not fulfill these obligations, Organizer shall not be held responsible for delivery of the expected results.
 
@@ -45,15 +45,15 @@ An invoice will be sent in EUR and it will also mention the corresponding amount
 
 Payment options:
 
-- A discount will be given for payments made by credit card on the Form.
-- Payment can also be sent by eletronic bank transfer, which should include the invoice number in reference.
-  - Bank details are:
-    - IBAN: FR76 1333 5003 0108 0015 6404 918
-    - BIC: CEPAFRPP333
-    - Bank name: Caisse d’Epargne Aquitaine Poitou Charentes
-    - Bank address: Avenue Vignau Anglade, 33560 Carbon Blanc, France
-    - Account owner: Coop'Alpha
-  - Please send us a confirmation from your bank when the transfer has been processed.
+* A discount will be given for payments made by credit card on the Form.
+* Payment can also be sent by eletronic bank transfer, which should include the invoice number in reference.
+  * Bank details are:
+    * IBAN: FR76 1333 5003 0108 0015 6404 918
+    * BIC: CEPAFRPP333
+    * Bank name: Caisse d’Epargne Aquitaine Poitou Charentes
+    * Bank address: Avenue Vignau Anglade, 33560 Carbon Blanc, France
+    * Account owner: Coop'Alpha
+  * Please send us a confirmation from your bank when the transfer has been processed.
 
 All invoices should be paid prior to arrival in the exhibition. We will not allow build-up if a balance is outstanding.
 
@@ -92,41 +92,41 @@ Please note that Sponsorship opportunities are in limited number and therefore a
 <iframe src="https://papisdotio.github.io/latam-2018/sponsorship-tiers.html" style="border:none;" width="100%">
 </iframe>
 
-- **Speaking slot**:
-  - Keynote: 20' presentation in opening or closing session
-  - Showcase: 10' presentation
-- **Visibility:**
-  - Regular:
-    - Mentions in announcements
-    - Email: inclusion of a paragraph of up to 400 characters presenting Sponsor, in an email sent to Conference attendees less than a week before Conference takes place. Paragraph is provided by Sponsor and may be edited by Organizer.
-    - Twitter: publication of a tweet from @papisdotio mentioning Sponsor’s brand name (or Twitter account if specified) and written by Organizer.
-    - Logo recognition on Conference website (with link to Sponsor website) and on rollup banners in Conference breakout area
-  - High:
-    - Logo recognition on stage: logo on rollup banners placed on stage and logo displayed on main screen between presentations
-    - Sponsor slide shown on TVs in breakout area
-    - Opportunity to provide swag on shared table next to registration desk (subject to approval)
-- **Exhibitor Space:**
-  - Regular: 1 table; Large and Premium: 2 tables
-  - 2 chairs are provided per table
-  - A maximum of 2 rollup banners is allowed for Gold sponsors, and 1 for Silver sponsors. Rollup banners are provided by sponsors. Their dimensions should be at most 2m high x 1.5m wide.
+* **Speaking slot**:
+  * Keynote: 20' presentation in opening or closing session
+  * Showcase: 10' presentation
+* **Visibility:**
+  * Regular:
+    * Mentions in announcements
+    * Email: inclusion of a paragraph of up to 400 characters presenting Sponsor, in an email sent to Conference attendees less than a week before Conference takes place. Paragraph is provided by Sponsor and may be edited by Organizer.
+    * Twitter: publication of a tweet from @papisdotio mentioning Sponsor’s brand name (or Twitter account if specified) and written by Organizer.
+    * Logo recognition on Conference website (with link to Sponsor website) and on rollup banners in Conference breakout area
+  * High:
+    * Logo recognition on stage: logo on rollup banners placed on stage and logo displayed on main screen between presentations
+    * Sponsor slide shown on TVs in breakout area
+    * Opportunity to provide swag on shared table next to registration desk (subject to approval)
+* **Exhibitor Space:**
+  * Regular: 1 table; Large and Premium: 2 tables
+  * 2 chairs are provided per table
+  * A maximum of 2 rollup banners is allowed for Gold sponsors, and 1 for Silver sponsors. Rollup banners are provided by sponsors. Their dimensions should be at most 2m high x 1.5m wide.
 
 **Not included in sponsorship benefits nor in this agreement:**
 
-- Any changes to the information provided by Sponsor or any edits on text mentioning Sponsor.
-- Reassignment of complimentary registrations less than 2 weeks before beginning of Conference.
-- Additional registrations to the Conference. These will have to be bought from the Conference website at the usual rate and under the condition that registration is still available.
-- Any information regarding Conference attendees.
-- Design and printing of any documents or visual supports other than those that will also feature the logos of other sponsors of the same Category.
-- Rental of exhibitor space outside of specified period.
-- Installation or uninstallation of any elements outside of provided tables and chairs on exhibitor space.
-- Speaking slot: any equipment (outside of microphone and projector); any overtime (beyond duration of allocated slot); any changes to the presentation information (description and speaker) less than 4 weeks before beginning of Conference.
+* Any changes to the information provided by Sponsor or any edits on text mentioning Sponsor.
+* Reassignment of complimentary registrations less than 2 weeks before beginning of Conference.
+* Additional registrations to the Conference. These will have to be bought from the Conference website at the usual rate and under the condition that registration is still available.
+* Any information regarding Conference attendees.
+* Design and printing of any documents or visual supports other than those that will also feature the logos of other sponsors of the same Category.
+* Rental of exhibitor space outside of specified period.
+* Installation or uninstallation of any elements outside of provided tables and chairs on exhibitor space.
+* Speaking slot: any equipment (outside of microphone and projector); any overtime (beyond duration of allocated slot); any changes to the presentation information (description and speaker) less than 4 weeks before beginning of Conference.
 
 **Amounts:**
 
 The amounts below are tax-free. Early-stage startups of less than 2 years who have raised less than 1M USD in funding can get a discount of 50% on the amounts below (limited availability). Startups of less than 4 years who have raised less than 25M USD in funding can get a discount of 30% on the amounts below (limited availability).
 
-- Gold sponsorship: 6000 USD
-- Silver sponsorship: 3000 USD
+* Gold sponsorship: 6000 USD
+* Silver sponsorship: 3000 USD
 
 <table style="border: 0; border-spacing: 10px; width: 100%; text-align: center;">
         <tbody><tr>
