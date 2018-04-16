@@ -20,7 +20,7 @@ The purpose of this Agreement is to set the technical, commercial, operational a
 
 **Timeline:**
 
-1. Sponsor shall fill in the form at [https://papisdotio.wufoo.eu/forms/m1fge0om1sanobb/](https://papisdotio.wufoo.eu/forms/m1fge0om1sanobb/) (“Form”)
+1. Sponsor shall fill in the form at [https://papisdotio.wufoo.eu/forms/m2upk951b09dgi/](https://papisdotio.wufoo.eu/forms/m2upk951b09dgi/) (“Form”)
 1. Organizer shall send invoice after receipt of the Form and payment.
 1. Organizer shall start providing benefits, according to best practices and in the best way possible.
 1. Sponsor shall send a list of persons to whom he wishes to assign his complimentary registrations, to contact@papis.io.
