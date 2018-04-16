@@ -41,11 +41,11 @@ Any and all materials provided by Sponsor shall remain the property of Sponsor, 
 
 ## Article 3. Terms of Payment
 
-An invoice will be sent in Euros and it will specify the corresponding amount in USD in the payment conditions. The amount in Euros will be determined from the exchange rate given by xe.com at the time of creation of the invoice.
+An invoice will be sent in EUR and it will also mention the corresponding amounts in USD and BRL (determined from the exchange rate given by xe.com at the time of creation of the invoice).
 
 Payment options:
 
-- A discount of $500 will be given for payments made by credit card on the Form.
+- A discount will be given for payments made by credit card on the Form.
 - Payment can also be sent by eletronic bank transfer, which should include the invoice number in reference.
   - Bank details are:
     - IBAN: FR76 1333 5003 0108 0015 6404 918
