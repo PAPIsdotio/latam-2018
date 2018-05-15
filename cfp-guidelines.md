@@ -39,6 +39,29 @@ You can see tips on how to craft a good proposal, how to submit it, and some rul
 
 If you have questions or if you have not heard about the status of your submission, please [contact us](mailto:program-committee-latam-2018@papis.mailclark.ai).
 
+### The Organizing Committee
+
+Program Chairs:
+
+* Paula Fadul
+* Thierry Silbermann
+
+Reviewers:
+
+* Luis Moneda
+* Andre Barbosa
+* Flávio Clésio
+* Oliver Waring
+* Dan Nichol
+* Vitor Falleiros
+* Ivan Marin
+* Iñigo Martinez
+* Ruben Glatt
+
+General Chair:
+
+* Louis Dorard
+
 ### Acknowledgements
 
 This website is based on [rubycentral’s cfp-app](https://github.com/rubycentral/cfp-app). Many thanks to [Joan Capdevila Pujol](http://personals.ac.upc.edu/jc/) for his help in setting it up!
