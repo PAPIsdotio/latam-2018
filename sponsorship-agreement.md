@@ -45,7 +45,7 @@ An invoice will be sent in EUR and it will also mention the corresponding amount
 
 Payment options:
 
-* A discount of USD 250 will be given for payments made by credit card on the Form.
+* A discount will be given for payments made by credit card on the Form.
 * Payment can also be sent by eletronic bank transfer, which should include the invoice number in reference.
   * Bank details are:
     * IBAN: FR76 1333 5003 0108 0015 6404 918
@@ -127,8 +127,6 @@ The amounts below are tax-free. Early-stage startups of less than 2 years who ha
 
 * Gold sponsorship: 6000 USD
 * Silver sponsorship: 3000 USD
-
-<!-- The table below is only needed for the printable version. It should be ommitted from the online version of the agreement. -->
 
 <table style="border: 0; border-spacing: 10px; width: 100%; text-align: center;">
         <tbody><tr>
